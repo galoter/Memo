@@ -1,4 +1,6 @@
 ## ATOM Package
+เพื่อเพิ่มความสามารถของ IDE atom  
+ให้ลง Package ด้านล่างด้วยคำสั่ง ดังต่อไปนี้
 
 <pre>
 apm install minimap
