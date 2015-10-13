@@ -1,5 +1,6 @@
-ATOM Package
+## ATOM Package
 
+<pre>
 apm install minimap
 apm install linter
 apm install linter-jscs
@@ -15,3 +16,4 @@ apm install jade-beautify
 apm install tree-view-open-files
 apm install coffee-refactor
 apm install refactor
+</pre>
