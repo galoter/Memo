@@ -16,6 +16,11 @@ apm install atom-beautify
 apm install atom-jade
 apm install jade-beautify
 apm install tree-view-open-files
-apm install coffee-refactor
 apm install refactor
+apm install coffee-refactor
 </pre>
+
+### Themes and syntax color
+
+apm install seti-ui
+apm install seti-syntax
