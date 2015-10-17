@@ -21,6 +21,7 @@ apm install coffee-refactor
 </pre>
 
 ### Themes and syntax color
-
+<pre>
 apm install seti-ui
 apm install seti-syntax
+</pre>
