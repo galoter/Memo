@@ -24,4 +24,10 @@ apm install coffee-refactor
 <pre>
 apm install seti-ui
 apm install seti-syntax
+apm install juicy-syntax
+apm install one-dark-syntax
+apm install atom-monokai
+apm install monokai
+apm install seti-monokai
+apm install monokai-seti
 </pre>
